@@ -58,7 +58,7 @@ Um jogo da memória simples e divertido desenvolvido com **HTML, CSS e JavaScrip
 
 ---
 
-## 📌 Melhorias Futuras (opcional)
+## 📌 Melhorias Futuras
 
 - ⏱️ Adicionar timer
 - 🏆 Placar de pontuação
